@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2752e361dd976864abd565be408ae750, type: 3}
+  m_Name: BestGirl
+  m_EditorClassIdentifier: 
+  storyText: "Who is Best Gurl in Re:Zero?\n\t1. Rem\n\t2. Emilia\n"
+  nextStates:
+  - {fileID: 11400000, guid: 466a70ad2f63a7848849c23268e43413, type: 2}
+  - {fileID: 11400000, guid: 1c9ea85ce90780a42a3576b94341a210, type: 2}
